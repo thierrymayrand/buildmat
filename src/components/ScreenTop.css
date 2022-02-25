@@ -1,0 +1,23 @@
+.screen-top__container{
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+    background-color: rgb(245, 245, 245);
+    padding: 10px;
+    padding-right: 20px;
+}
+
+.screen-top__item-container{
+    display: flex;
+    gap: 8px;
+}
+
+p{
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.screen-top__item-add-container{
+    display: flex;
+    gap: 8px;
+}

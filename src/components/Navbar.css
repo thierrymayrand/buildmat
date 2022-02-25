@@ -1,0 +1,38 @@
+.navbar__container{
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+.navbar__item{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+
+.navbar__logo{
+    height: 40px;
+    width: auto;
+}
+
+.navbar__list{
+    display: flex;
+    gap: 40px
+}
+
+.navbar__buttons{
+    display: flex;
+    gap: 5px;
+    height: 40px;
+}
+
+.navbar__cart-number{
+    position: absolute;
+    top: -5px;
+    margin-left: 90%;
+}
+.navbar__cart-container{
+    position: relative
+}

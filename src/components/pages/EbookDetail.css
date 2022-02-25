@@ -1,0 +1,96 @@
+.ebook-detail__body{
+padding: 10px 20px;
+}
+
+.ebook-detail__main{
+    display: flex;
+}
+
+.ebook-detail__first-component{
+    width: 30%;
+}
+.ebook-detail__middle-component{
+width: 50%;
+}
+
+.ebook-detail__image{
+    width: 80%;
+    height: auto
+}
+
+.ebook-detail__authors{
+    margin-top: 20px;
+}
+
+.ebook-detail__resume{
+    margin-top: 30px;
+}
+
+.ebook-detail__resume-title{
+    font-size: 1.3em;
+    font-weight: 400;
+}
+
+.ebook-detail__resume-sub-title{
+    margin-top: 20px;
+   line-height: 1.8em;
+    font-weight: 700;
+}
+
+.ebook-detail__last-component{
+    margin-left: 30px;
+    background-color: rgb(251, 251, 251);
+    align-self: top;
+    
+
+}
+
+.ebook-detail__last-component-body{
+    padding: 30px;
+    
+}
+
+
+.ebook-detail__price-container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.ebook-detail__buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 30px;
+}
+.ebook-detail__addtocart{
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-weight: 600;
+}
+
+.ebook-detail__buynow {
+padding: 10px;
+color: white;
+text-align: center;
+font-size: 1em;
+font-weight: 600;
+border-radius: 30px;
+background-color: black;
+}
+
+.ebook-detail__about{
+    margin-top: 30px
+}
+
+.ebook-detail__about-items{
+    display: flex;
+    gap: 40px;
+    
+}
+
+.ebook-detail__page-nmb{
+    font-size: 1.8em;
+    font-weight: 600;
+    color: rgb(107, 107, 107);
+}

@@ -1,0 +1,39 @@
+.newsletter__email-input{
+margin-left: 10px;
+}
+.newsletter__email-submit{
+    margin-top: 20px;
+    padding: 10px;
+font-size: 20px;
+}
+
+.newsletter__label{
+    font-size: 25px;
+}
+
+.newsletter__container{ 
+    display: flex;
+    justify-content: center;
+    
+    padding-left: 30px;
+    background-color: rgb(249,249,248) ;
+    padding: 40px 0;
+}
+
+.newsletter__email-input{
+    margin: 0 20px;
+    padding: 5px 10px;
+}
+
+.newsletter__email-label{
+    font-size: 1.2em;
+    
+}
+
+.newsletter__title{
+    font-size: 1.4em;
+}
+
+.newsletter__button{
+    padding: 5px 10px;
+}

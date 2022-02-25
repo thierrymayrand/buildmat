@@ -1,0 +1,78 @@
+.home_container {
+margin-bottom: 50px
+
+}
+
+.home__top{
+    height: 50px;
+    background-color: rgb(245, 245, 245);
+}
+
+.home__bottom-hero{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home__bottom-hero-title{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.home__bottom-hero-sub-title{
+    font-size: 20px;
+}
+
+.home__bottom-button-container{
+display: flex;
+gap: 10px;
+justify-content: center;
+margin: 20px 0;
+}
+
+.home__bottom-button{
+    color: white;
+    padding: 15px;
+    background-color: black;
+    border-radius: 30px;
+    border-style: none;
+}
+
+h1{
+    font-family: acumin-pro, sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    
+}
+
+p{
+font-size: large;
+}
+
+
+.home-hero__bottom{
+    position: relative;
+    
+    padding: 0 60px;
+}
+
+
+
+.image{
+    width: 100%;
+    height: auto;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.home-hero__absolute-text{
+position: absolute;
+top: 50px;
+font-size: 50px;
+color: rgb(40,42,39);
+margin-left: 20px;
+}

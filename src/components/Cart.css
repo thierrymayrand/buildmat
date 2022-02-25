@@ -1,0 +1,57 @@
+.cart__container{
+    margin-top: 20px;
+    padding: 0 30px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.cart__bag-container{
+    width: 60%;
+    
+}
+
+.cart__item-container{
+   
+    margin-top: 20px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.cart__item-image{
+    height: 150px;
+    width: 150px;
+}
+
+.cart__item-image-text{
+    display: flex;
+    gap: 15px
+
+}
+
+.cart__summary-details{
+   
+}
+
+.cart__summary-subtotal{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0; 
+}
+
+.cart__summary-taxes{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0; 
+}
+
+.cart__summary-total{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0; 
+
+}
+
+.cart__summary-checkout-btn{
+    padding: 10px;
+}

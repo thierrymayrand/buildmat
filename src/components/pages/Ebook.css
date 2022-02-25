@@ -1,0 +1,22 @@
+
+.ebook__container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 40px 0;
+    
+}
+.ebook__add-to-cart-container{
+    display: flex;
+    gap: 5px;
+    margin-top: 10px;
+   
+}
+
+.ebook__item-image{
+    width: 100%;
+    height: auto;
+    background-color: rgb(249,249,248);
+    border-radius: 10px
+}

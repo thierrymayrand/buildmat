@@ -1,0 +1,23 @@
+.single-article__image{
+    width: 600px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.signle-article__container{
+    display: inline-block;
+    position: relative;
+    background-color: rgb(241,242,236);
+    border-radius: 10px;
+    
+}
+
+.single-article__text-container{  
+    position: absolute;
+    padding: 10px;
+    bottom: 5px;
+    right: 5px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    color: black;
+}

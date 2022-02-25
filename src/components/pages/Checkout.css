@@ -1,0 +1,19 @@
+.checkout__container{
+padding: 20px;
+}
+
+.checkout__summary-container{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.checkout__billing-headline{
+margin-top: 40px;
+}
+
+.chechout__item-container{
+    display: flex;
+    background-color: darkgray;
+    
+}

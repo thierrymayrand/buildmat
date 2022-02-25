@@ -1,0 +1,26 @@
+.home-article__container{
+    display: flex;
+    justify-content: center;
+    
+    margin: 200px 30px;
+    gap: 40px;
+}
+
+.home-article__image{
+    width: 60%;
+    max-width: 600px;
+    height: auto;
+}
+
+.home-article__text-container{
+    align-self: center;
+}
+
+.home-article__headline{
+font-size: 2em;
+}
+
+.home-article__link{
+    text-decoration: underline;
+    cursor: pointer;
+}

@@ -1,0 +1,37 @@
+.article__item-container{
+    
+    padding: 20px;
+    border-radius: 10px;;
+   
+    background-color: rgb(246, 246, 246);
+}
+
+.article__item-text-container{
+width: 100%;
+    
+}
+
+.article__item-detail-container{
+   
+    
+    text-align: start;
+}
+.article__title{
+    font-size: 1.2em;
+    font-weight: 700;
+    color: black;
+}
+
+
+
+.article__image{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.article__subtitle{
+    color: rgb(141,141,168);
+    margin: 10px 0;
+}

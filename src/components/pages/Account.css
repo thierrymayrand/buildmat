@@ -1,0 +1,8 @@
+.account__item-container{ 
+    display: flex;
+    align-items: baseline;
+    gap: 20px;
+    background-color: rgb(231, 231, 231);
+    width: 70%;
+    padding: 10px 0;
+}
